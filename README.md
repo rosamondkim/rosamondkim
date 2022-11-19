@@ -15,9 +15,8 @@
 </ul>
 
 ## About Me
-<a>노션 이력서 보러가기</a>
-<a>웹 이력서 보러가기</a>
---아직 미완성입니다 🤫 조금 더 보완한 후 재업로 하겠습니다!
+<a href="https://pewter-slime-88d.notion.site/Frontend-Developer-9f17c8e0af4a4e9696ed0d052844c728">노션 이력서 보러가기</a>
+--아직 미완성입니다 🤫 조금 더 보완한 후 재업로드 하겠습니다! :) 
 
 ## Contact Me
 📮 itzmems@naver.com
